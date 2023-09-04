@@ -19,7 +19,7 @@ https://github.com/Mostafa-Nafie/Football-Object-Detection/assets/44211916/aaac3
   
 ```
 git clone https://github.com/Mostafa-Nafie/Football-Object-Detection.git
-cd "./Football Object Detection"
+cd "./Football-Object-Detection"
 pip install requirements.txt
 ```
 
